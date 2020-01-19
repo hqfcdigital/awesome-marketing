@@ -212,6 +212,7 @@
 - [Appointlet](https://www.appointlet.com)
 
 #### Outsourcing
+- [phpworkplace](https://www.phpworkplace.com)
 - [Upwork](https://www.upwork.com/)
 - [Guru](http://www.guru.com)
 - [CloudPeeps](https://www.cloudpeeps.com)
